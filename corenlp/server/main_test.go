@@ -5,7 +5,7 @@ import (
 	"os"
 	"testing"
 
-	"bitbucket.org/7phs/tools/common"
+	"github.com/7phs/tools/common"
 )
 
 func TestMain(m *testing.M) {

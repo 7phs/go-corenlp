@@ -4,8 +4,8 @@ import (
 	"fmt"
 	"time"
 
-	"bitbucket.org/7phs/go-corenlp/corenlp/server"
-	"bitbucket.org/7phs/tools/common"
+	"github.com/7phs/go-corenlp/corenlp/server"
+	"github.com/7phs/tools/common"
 )
 
 const (

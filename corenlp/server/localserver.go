@@ -5,7 +5,7 @@ import (
 	"sync"
 	"time"
 
-	"bitbucket.org/7phs/tools/monitoring"
+	"github.com/7phs/tools/monitoring"
 	"github.com/pkg/errors"
 )
 

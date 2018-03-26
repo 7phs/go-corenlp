@@ -4,7 +4,7 @@ import (
 	"strconv"
 	"strings"
 
-	"bitbucket.org/7phs/tools/monitoring"
+	"github.com/7phs/tools/monitoring"
 )
 
 const (

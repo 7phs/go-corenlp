@@ -5,7 +5,7 @@ import (
 	"strings"
 	"testing"
 
-	"bitbucket.org/7phs/tools/monitoring"
+	"github.com/7phs/tools/monitoring"
 )
 
 func TestCoreNlpParameter_MonitoringParameter(t *testing.T) {

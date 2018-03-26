@@ -3,7 +3,7 @@ package server
 import (
 	"testing"
 
-	"bitbucket.org/7phs/tools/common"
+	"github.com/7phs/tools/common"
 )
 
 func TestLocalCoreNLP(t *testing.T) {
